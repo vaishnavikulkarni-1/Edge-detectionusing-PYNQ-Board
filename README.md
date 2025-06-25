@@ -71,7 +71,7 @@ The implementation of the Sobel Edge Detection algorithm on the PYNQ-Z2 or ZYNQ-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/68fb2c1f-7338-4cf2-8487-d5881d04141f" alt="Sobel Algorithm" width="500"/>
   <br>
-  <b>Fig 1.2 IP Integration </b>
+  <b>Fig 1.3 Jupyter Integration </b>
 </p>
 
 ## Vitis HLS Design
@@ -84,7 +84,7 @@ For the Sobel algorithm to be implemented on the **PYNQ board**:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/02ee6a5a-3735-4830-919e-bf8e473d5c1d" alt="Sobel Algorithm" width="500"/>
   <br>
-  <b>Fig 1.2 IP Integration </b>
+  <b>Fig 1.4 Sobel IP </b>
 </p>
 
 ## Vivado Design
@@ -100,7 +100,7 @@ Vivado also provides features to assist in routing and connecting the logic bloc
 <p align="center">
   <img src="https://github.com/user-attachments/assets/77e3681f-ecee-4e69-bc4f-2f55c9d1e5f7" alt="Vivado Block Design" width="600"/>
   <br>
-  <b>Fig 1.3: Vivado Block Design for Sobel IP Integration</b>
+  <b>Fig 1.5: Vivado Block Design for Sobel IP Integration</b>
 </p>
 
 
@@ -112,13 +112,13 @@ Vivado also provides features to assist in routing and connecting the logic bloc
   <img src="https://github.com/user-attachments/assets/cbcc6f84-48c5-4251-9d35-f45a1d5254ec" alt="ALGORITHM POWER RESULTS
 " width="600"/>
   <br>
-  <b>Fig 1.3:ALGORITHM POWER RESULTS </b>
+  <b>Fig 1.6:ALGORITHM POWER RESULTS </b>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4e6b516-144d-4531-8b8e-a0351afcbe51" alt="Vivado Block Design" width="600"/>
   <br>
-  <b>Fig 1.3: Results in Jupyter Notebook</b>
+  <b>Fig 1.7: Results in Jupyter Notebook</b>
 </p>
 
 
