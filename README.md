@@ -68,6 +68,24 @@ The implementation of the Sobel Edge Detection algorithm on the PYNQ-Z2 or ZYNQ-
   <b>Fig 1.2 IP Integration </b>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/68fb2c1f-7338-4cf2-8487-d5881d04141f" alt="Sobel Algorithm" width="500"/>
+  <br>
+  <b>Fig 1.2 IP Integration </b>
+</p>
+
+## 🛠️ Vitis HLS Design
+
+For the Sobel algorithm to be implemented on the **PYNQ board**:
+
+1. A custom **Intellectual Property (IP) block** was designed using **Vitis HLS** in the C++ programming language.
+2. This approach simplifies the implementation of the Sobel algorithm, avoiding the need to write Verilog or VHDL manually.
+   <p align="center">
+  <img src="https://github.com/user-attachments/assets/02ee6a5a-3735-4830-919e-bf8e473d5c1d" alt="Sobel Algorithm" width="500"/>
+  <br>
+  <b>Fig 1.2 IP Integration </b>
+</p>
+
 
 
 
