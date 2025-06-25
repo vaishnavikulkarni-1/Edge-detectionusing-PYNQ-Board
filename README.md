@@ -30,7 +30,7 @@ The implementation of the Sobel Edge Detection algorithm on the PYNQ-Z2 or ZYNQ-
 
 ---
 
-## ⚙️ Implementation Steps
+## Implementation Steps
 
 ### 1. Sobel Filter IP Creation
 - Design Sobel filter in **C++** using **Vitis HLS**
@@ -74,7 +74,7 @@ The implementation of the Sobel Edge Detection algorithm on the PYNQ-Z2 or ZYNQ-
   <b>Fig 1.2 IP Integration </b>
 </p>
 
-## 🛠️ Vitis HLS Design
+## Vitis HLS Design
 
 For the Sobel algorithm to be implemented on the **PYNQ board**:
 
@@ -109,10 +109,16 @@ Vivado also provides features to assist in routing and connecting the logic bloc
 - Hardware implementation shows faster performance compared to software-only approaches
   
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cbcc6f84-48c5-4251-9d35-f45a1d5254ec" alt="Vivado Block Design" width="600"/>
+  <img src="https://github.com/user-attachments/assets/cbcc6f84-48c5-4251-9d35-f45a1d5254ec" alt="ALGORITHM POWER RESULTS
+" width="600"/>
   <br>
   <b>Fig 1.3: Vivado Block Design for Sobel IP Integration</b>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b4e6b516-144d-4531-8b8e-a0351afcbe51" alt="Vivado Block Design" width="600"/>
+  <br>
+  <b>Fig 1.3: Vivado Block Design for Sobel IP Integration</b>
+</p>
 
 
