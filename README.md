@@ -80,7 +80,7 @@ For the Sobel algorithm to be implemented on the **PYNQ board**:
 
 1. A custom **Intellectual Property (IP) block** was designed using **Vitis HLS** in the C++ programming language.
 2. This approach simplifies the implementation of the Sobel algorithm, avoiding the need to write Verilog or VHDL manually.
-3. 
+   
 <p align="center">
   <img src="https://github.com/user-attachments/assets/02ee6a5a-3735-4830-919e-bf8e473d5c1d" alt="Sobel Algorithm" width="500"/>
   <br>
@@ -112,13 +112,13 @@ Vivado also provides features to assist in routing and connecting the logic bloc
   <img src="https://github.com/user-attachments/assets/cbcc6f84-48c5-4251-9d35-f45a1d5254ec" alt="ALGORITHM POWER RESULTS
 " width="600"/>
   <br>
-  <b>Fig 1.3: Vivado Block Design for Sobel IP Integration</b>
+  <b>Fig 1.3:ALGORITHM POWER RESULTS </b>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4e6b516-144d-4531-8b8e-a0351afcbe51" alt="Vivado Block Design" width="600"/>
   <br>
-  <b>Fig 1.3: Vivado Block Design for Sobel IP Integration</b>
+  <b>Fig 1.3: Results in Jupyter Notebook</b>
 </p>
 
 
