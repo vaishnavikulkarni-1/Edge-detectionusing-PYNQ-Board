@@ -53,8 +53,14 @@ The implementation of the Sobel Edge Detection algorithm on the PYNQ-Z2 or ZYNQ-
 - **Python (Jupyter Notebook on PYNQ)**
 - **PYNQ-Z2 FPGA Board**
 
+
 ## Block Diagram
-![image](https://github.com/user-attachments/assets/db7432fc-1d61-4964-9087-c1fa671f81fd)
-*Fig 1.1 Sobel Algorithm*
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db7432fc-1d61-4964-9087-c1fa671f81fd" alt="Sobel Algorithm" width="500"/>
+  <br>
+  <b>Fig 1.1 Sobel Algorithm</b>
+</p>
+
 
 
