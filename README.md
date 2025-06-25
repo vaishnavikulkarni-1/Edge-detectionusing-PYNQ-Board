@@ -1,1 +1,1 @@
-# Edge-detectionusing-PYNQ-Board
+# Edge-detection using-PYNQ-Board
