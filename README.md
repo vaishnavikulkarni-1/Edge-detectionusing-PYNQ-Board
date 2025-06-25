@@ -1,5 +1,5 @@
 # Edge-detection using-PYNQ-Board
- 🔍 Overview
+ ## **Overview**
 This project implements the **Sobel Edge Detection algorithm** on the **PYNQ-Z2 (ZYNQ-7000)** board. The objective is to perform real-time edge detection by combining **hardware acceleration (FPGA)** and **software (ARM processor)** capabilities. The design leverages **Vitis HLS**, **Vivado**, and **PYNQ Jupyter notebooks**.
 
 ---
