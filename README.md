@@ -62,5 +62,12 @@ The implementation of the Sobel Edge Detection algorithm on the PYNQ-Z2 or ZYNQ-
   <b>Fig 1.1 Sobel Algorithm</b>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1a935a4a-b66a-4f85-a699-14e8918c7979" alt="Sobel Algorithm" width="500"/>
+  <br>
+  <b>Fig 1.2 IP Integration </b>
+</p>
+
+
 
 
