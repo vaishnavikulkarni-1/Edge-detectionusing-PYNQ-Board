@@ -4,7 +4,7 @@ This project implements the **Sobel Edge Detection algorithm** on the **PYNQ-Z2 
 
 ---
 
-## 🧠 Team Members
+## Team Members
 - Umabharti H (USN: 01fe22bec209)  
 - Sahana S (USN: 01fe22bec215)  
 - Vaishnavi K (USN: 01fe22bec222)  
@@ -17,15 +17,16 @@ This project implements the **Sobel Edge Detection algorithm** on the **PYNQ-Z2 
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 The implementation of the Sobel Edge Detection algorithm on the PYNQ-Z2 or ZYNQ-7020 platform. 
 
 ---
 
-## 🎯 Need Statement
-- Use hardware acceleration to improve performance compared to traditional software methods.
-- Utilize the FPGA’s parallel capabilities to enable real-time edge detection.
-- Applications include **video processing**, **object detection**, and **autonomous systems**.
+## Objective
+- To Implement Sobel edge detection on PYNQ-Z2 FPGA.
+- To utilize FPGA parallelism for faster image processing.
+- To compare hardware vs software performance.
+- To achieve  edge detection with low latency and low power consumption.
 
 ---
 
@@ -46,9 +47,14 @@ The implementation of the Sobel Edge Detection algorithm on the PYNQ-Z2 or ZYNQ-
 
 ---
 
-## 🔬 Tools & Technologies
+##  Tools & Technologies
 - **Xilinx Vitis HLS**
 - **Xilinx Vivado Design Suite**
 - **Python (Jupyter Notebook on PYNQ)**
 - **PYNQ-Z2 FPGA Board**
+
+## Block Diagram
+![image](https://github.com/user-attachments/assets/46fabffe-4d53-4350-bce8-3e252e5ad8db)
+Fig 1.1 Sobel Algorithm
+
 
